@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D47F-5ED5
+
+ Directory of C:\Users\vikasdevops\Desktop\myproj
+
+03/16/2017  03:29 AM    <DIR>          .
+03/16/2017  03:29 AM    <DIR>          ..
+03/16/2017  03:29 AM                 0 first.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  122,094,317,568 bytes free
